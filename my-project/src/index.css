@@ -8,3 +8,12 @@ body {
   box-sizing: border-box;
   background-color: #09090b;
 }
+
+.embla__container {
+  display: flex;
+}
+
+.embla__slide {
+  flex: 0 0 100%;
+  min-width: 0;
+}
